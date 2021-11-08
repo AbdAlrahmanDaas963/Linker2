@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Linker2/static/css/main.a6225dee.chunk.css",
+    "main.js": "/Linker2/static/js/main.7dac8d5c.chunk.js",
+    "main.js.map": "/Linker2/static/js/main.7dac8d5c.chunk.js.map",
+    "runtime-main.js": "/Linker2/static/js/runtime-main.58112653.js",
+    "runtime-main.js.map": "/Linker2/static/js/runtime-main.58112653.js.map",
+    "static/js/2.d733e73d.chunk.js": "/Linker2/static/js/2.d733e73d.chunk.js",
+    "static/js/2.d733e73d.chunk.js.map": "/Linker2/static/js/2.d733e73d.chunk.js.map",
+    "static/js/3.f37d2847.chunk.js": "/Linker2/static/js/3.f37d2847.chunk.js",
+    "static/js/3.f37d2847.chunk.js.map": "/Linker2/static/js/3.f37d2847.chunk.js.map",
+    "index.html": "/Linker2/index.html",
+    "static/css/main.a6225dee.chunk.css.map": "/Linker2/static/css/main.a6225dee.chunk.css.map",
+    "static/js/2.d733e73d.chunk.js.LICENSE.txt": "/Linker2/static/js/2.d733e73d.chunk.js.LICENSE.txt",
+    "static/media/Great.395d1fae.png": "/Linker2/static/media/Great.395d1fae.png",
+    "static/media/Tic.9728097f.png": "/Linker2/static/media/Tic.9728097f.png",
+    "static/media/me.04f5ab5b.jpg": "/Linker2/static/media/me.04f5ab5b.jpg",
+    "static/media/mecaGame.7da9d21c.png": "/Linker2/static/media/mecaGame.7da9d21c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58112653.js",
+    "static/js/2.d733e73d.chunk.js",
+    "static/css/main.a6225dee.chunk.css",
+    "static/js/main.7dac8d5c.chunk.js"
+  ]
+}
